@@ -1,4 +1,4 @@
-@media screen and (max-width: 900px) {
+@media all and (not handheld){ 
     .item {
         height: 100px;
         width: 100px;
